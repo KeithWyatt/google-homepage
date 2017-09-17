@@ -1,0 +1,93 @@
+body, html{
+  height:100%;
+}
+
+.logo{
+  background-size: 272px 92px;
+  height: 92px;
+  width: 272px;
+  text-align: left;
+  padding-bottom: 5px;
+  position: relative;
+  display: block;
+  padding-top: 100px;
+  margin: auto;
+  right: 150px;
+}
+
+.searchbar{
+  margin: auto;
+  display: block;
+  width: 100%;
+  text-align: left;
+ }
+
+#search{
+  width: 400px;
+  height: 34px;
+  margin: auto;
+  text-align: left;
+  padding-top: 100px;
+}
+
+.block-btn{
+  height: 40px;
+  line-height: 27px;
+  color: #222;
+  width: 250px;
+  margin: auto;
+  display: block;
+}
+
+.wrapper{
+  min-height:100%;
+  position: relative;
+}
+
+.navigation{
+  min-width: 255px;
+  padding-left: 30px;
+  padding-right: 5px;
+  text-align: right;
+  margin-right: 20px;
+  font-size: 13px;
+}
+#Gmail, #Images, #Apps, #Notifications{
+  padding-right: 5px;
+} 
+
+.links {
+  font-family: Arial;
+  font-size: 13px;
+  display: inline-block;
+}
+
+#French{
+  margin: auto;
+  text-align: center;
+  display: block;
+  width: 100%;
+}
+
+#Footer{
+  min-width: 255px;
+  padding-left: 0px;
+  padding-right: 5px;
+  margin-right: 20px;
+  font-size: 13px;
+}
+
+#Business, #About{
+  padding-left: 15px;
+}
+
+#Privacy, #Terms, #Settings{
+  padding-right: 15px;
+}
+
+.Lbar{
+  float: left;
+}
+.Rbar{
+  float: right;
+}
